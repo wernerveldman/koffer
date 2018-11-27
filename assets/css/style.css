@@ -45,6 +45,7 @@ a:hover {
 }
 
 .jumbotron::after{
+  height: 500px;
   content: "";
   background-image: url('../images/6616.png');
   background-size: 110%;
