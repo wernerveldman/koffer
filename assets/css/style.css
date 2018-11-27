@@ -22,6 +22,10 @@ a:hover {
   margin-bottom: 48px;
 }
 
+h1, h2, h3{
+color: rgba(39, 60, 117,1.0);
+}
+
 .container {
   margin-top: 50px;
 }
@@ -157,33 +161,6 @@ footer p {
   height: 150px;
   width: 150px;
   padding-bottom: 8px;
-}
-
-.img-website-mock {
-  position: relative;
-  background-image: url('img/web-mock.png');
-  height: 0;
-  padding-top: 71.8%;
-  margin-top: 80px;
-  z-index: 200 !important;
-}
-
-.img-responsive {
-  background-image: url('img/responsive.png');
-  height: 96px;
-  width: 144px;
-}
-
-.img-lightweight {
-  background-image: url('img/light.png');
-  height: 96px;
-  width: 96px;
-}
-
-.img-simple {
-  background-image: url('img/simple.png');
-  height: 96px;
-  width: 132px;
 }
 
 /* === MEDIA QUERIES === */
