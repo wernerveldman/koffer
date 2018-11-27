@@ -23,21 +23,9 @@ a:hover {
 }
 
 .container {
-  
+  margin-top: 50px;
 }
 
-.body-content {
-  background: #fff;
-  padding: 100px 0 120px 0;
-  position: relative;
-  z-index: 0 !important;
-}
-
-.body-content > .container {
-  position: relative;
-  top: 100px;
-  padding-bottom: 100px;
-}
 
 .jumbotron {
   height: 500px;
