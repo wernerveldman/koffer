@@ -5,7 +5,7 @@
 }
 
 body {
-  background: #F38BD3;
+  background: rgba(251, 197, 49,0.5);
 }
 
 a {
@@ -40,10 +40,12 @@ a:hover {
 }
 
 .jumbotron {
-  background-image: url('../images/6616.jpg');
+  background-image: url('../images/6616.png');
   background-size: 110%;
+  background-position: center center;
   height: 500px;
   width: 100%;
+  opacity: 0.5;
   z-index: 100 !important;
 }
 
