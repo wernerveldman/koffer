@@ -1,10 +1,4 @@
 
-/**
-*** ZACH COLE
-*** (C) 2016
-**/
-
-/* SIMPLE GRID LANDING PAGE CUSTOM STYLES */
 
 * {
   color: #636366;
@@ -175,8 +169,8 @@ footer p {
 .img-logo {
   background-image: url('../images/vintage-icon-png-19164.png');
   background-size: contain;
-  height: 40px;
-  width: 40px;
+  height: 150px;
+  width: 150px;
   padding-bottom: 8px;
 }
 
