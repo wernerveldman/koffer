@@ -13,6 +13,7 @@ Koffer 1 bevat de volgende inhoud
   - Dansende kerstman ontdaan van muziekje
   - Meerdere vervuilde rode hoogpolige kleedjes
   - Barometer (stuk)
+<br/>
 <button>meer informatie</button>  
 </div>
   
@@ -22,6 +23,7 @@ Koffer 2 bevat de volgende inhoud
   - Schilderij van het huilende jongentje
   - Ongedefinieerd schilderij
   - Waxine licht houders
+<br/>
 <button>meer informatie</button>  
 </div>  
   
