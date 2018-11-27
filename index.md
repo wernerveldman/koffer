@@ -1,5 +1,5 @@
 <div class='row'>
-<div class='col-6' markdown='1'>
+<div class='col-12' markdown='1'>
 ## huurkringloopkoffer.nl
 
 huur uw kringloop *antiek*elen vanaf 2018 via http://huurkringloopkoffer.nl
