@@ -40,13 +40,24 @@ a:hover {
 }
 
 .jumbotron {
+
+  height: 500px;
+  width: 100%;
+  z-index: 100 !important;
+}
+
+.jumbotron::after{
+  content: "";
   background-image: url('../images/6616.png');
   background-size: 110%;
   background-position: center center;
-  height: 500px;
-  width: 100%;
   opacity: 0.5;
-  z-index: 100 !important;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;
 }
 
 .jumbotron h1,
